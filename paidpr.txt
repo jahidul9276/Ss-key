@@ -1,0 +1,16 @@
+proxy.balikesir.edu.tr:3128:35176000158:35176*202313601002
+proxy.balikesir.edu.tr:3128:38200769892:Mustafa.16
+proxy.balikesir.edu.tr:3128:14423433116:14423*202110619045deniz
+proxy.balikesir.edu.tr:3128:14612086390:huseyin1992
+proxy.balikesir.edu.tr:3128:31051434674:31051*202113704022
+proxy.balikesir.edu.tr:3128:43922075350:181920Sk.
+proxy.balikesir.edu.tr:3128:34336028032:102663t.
+proxy.balikesir.edu.tr:3128:16009429810:SDsf123.
+proxy.balikesir.edu.tr:3128:14534622300:emre12345
+proxy.balikesir.edu.tr:3128:29044218448:karb10team
+proxy.balikesir.edu.tr:3128:26167656942:Deniz2018*
+proxy.balikesir.edu.tr:3128:11060528250:123aa123aa
+proxy.balikesir.edu.tr:3128:26674211818:26674*202023702013
+proxy.balikesir.edu.tr:3128:11563944182:11563*202410613027
+proxy.balikesir.edu.tr:3128:47572270318:47572*202314004042
+proxy.balikesir.edu.tr:3128:10616696252:10616*202413601033
